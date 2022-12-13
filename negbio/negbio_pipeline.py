@@ -21,7 +21,7 @@ The most commonly used negbio commands are:
 from subprocess import call
 import logging
 import os
-from negbio.cli_utils import parse_args
+from cli_utils import parse_args
 
 
 def main():
